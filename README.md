@@ -1,5 +1,7 @@
 # stock_market_test
 
+![](https://github.com/Ryeori/stock-market-test/readme_presentation.gif)
+
 A new Flutter project. You need to install, then you can move on.
 
 ## Getting Started
