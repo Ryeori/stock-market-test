@@ -7,6 +7,6 @@ A new Flutter project. You need to install, then you can move on.
 Run this commands to start a project
 
 - `flutter pub get`
-- `pub run build_runner build --delete-conflicting-outputs`
+- `flutter pub run build_runner build --delete-conflicting-outputs`
 - And then add your api key in **/lib/api/stock_api_constant.dart**, there is no flavors/env in this project, so you have to do it manually like this.
   If you dont have one yet, then create it here - alphavantage.co
