@@ -1,7 +1,5 @@
 # stock_market_test
-
-![](https://github.com/Ryeori/stock-market-test/readme_presentation.gif)
-
+<img src="https://github.com/Ryeori/stock-market-test/blob/main/readme_presentation.gif" width="360" height="740">
 A new Flutter project. You need to install, then you can move on.
 
 ## Getting Started
